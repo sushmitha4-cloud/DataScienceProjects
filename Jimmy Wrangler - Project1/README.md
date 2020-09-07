@@ -14,6 +14,7 @@ Madrid pollution data : https://www.kaggle.com/decide-soluciones/air-quality-mad
 Taiwan pollution data : https://www.kaggle.com/phlinhng/air-quality
 
 Please note that : We used only 2014 and 2015 datasets, as the data for those years was our scope bound to.
+Also, raw data is not available in project folder strucutre under the raw data, because of the size of the files.
 
 # Raw Data Processing
 
